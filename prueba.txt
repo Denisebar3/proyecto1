@@ -1,9 +1,9 @@
 hola
-esto es un cambio
-<<<<<<< HEAD
+
 he creado una nueva rama 4
 otro cambio
-=======
-he creado una nueva ramr en prueba tres.
-otro cambio mas2.
->>>>>>> prueba2
+
+he creado una nueva ramr en prueba tres y cuatro
+
+otro cambio mas2 
+
